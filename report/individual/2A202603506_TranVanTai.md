@@ -4,7 +4,7 @@
 
 - **MSSV:** 2A202603506
 - **Họ và tên:** Trần Văn Tài
-- **SEED** (in ở ô đầu notebook): 206
+- **SEED**: 206
 
 ## 1. Bằng chứng
 
